@@ -1,5 +1,5 @@
 ---
-title: Downloading HACS
+title: Downloading HACSdd
 description: "Step-by-step instructions on downloading HACS to your Home Assistant"
 ---
 
